@@ -1,1 +1,20 @@
 /* Other rules */
+.list {
+  /*Permets de mettre en ligne les images */
+  display: flex;
+  /*Permets de mettre un scroll vertical avec x */
+  overflow-x: auto;
+}
+.page {
+  background-color: black;
+}
+h1 {
+  color: red;
+  margin-top: 0px;
+}
+h2 {
+  color: white;
+}
+body {
+  margin: 0px;
+}
